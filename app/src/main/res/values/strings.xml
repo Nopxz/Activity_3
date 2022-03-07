@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activity 3 Final</string>
+    <string name="tEmail">Email :</string>
+    <string name="var1">Ini Pesan</string>
+    <string name="bsignin">Sign-in</string>
+    <string name="tlogin">LOGIN</string>
+    <string name="tPassword">Password :</string>
+    <string name="tData">Data Anda</string>
+    <string name="txEmail">Hasil Email</string>
+    <string name="txPassword">Hasil Password</string>
+    <string name="label2">Tampilan Kedua</string>
+
+</resources>
